@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PATlDAR.aternos.me",
-    "port": 15728,
+    "ip": "mrigal.aternos.host",
+    "port": :15728,
     "version": "1.21.11",
     "try-creative": false
   },
