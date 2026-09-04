@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Sarkari-Rand",
+    "username": "SoloCloudHosting",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "hatchetfish.aternos.me",
-    "port": 15728,
-    "version": "1.21.11",
+    "ip": "solocloud.host",
+    "port": 25565,
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "ohhyeahhhhhhhhh"
+      "password": "SoloPlayz"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Camera person Parth, come and fuck meeee",
-        "Aa jao babyyyyyyyy",
-        "Ajao naaaaa... sirf 50 rupey me 1 ghanta... aa bhi jaoooooooo"
+        "I'm a regular player",
+        "Subscribe to SoloPlayz!",
+        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
       ]
     },
     "chat-log": true,
