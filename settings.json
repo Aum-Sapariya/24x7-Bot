@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Sarkari-Rand",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "PATlDAR.aternos.me",
     "port": 15728,
-    "version": "1.20.1",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "ohhyeahhhhhhhhh"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Camera person Parth",
-        "Abe lodu",
-        "bhg bsdk"
+        "Camera person Parth, come and fuck meeee",
+        "Aa jao babyyyyyyyy",
+        "Ajao naaaaa... sirf 50 rupey me 1 ghanta... aa bhi jaoooooooo"
       ]
     },
     "chat-log": true,
