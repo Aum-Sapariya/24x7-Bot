@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "Rand",
   "bot-account": {
     "username": "Sarkari Rand",
     "password": "",
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "Rand1234"
     },
     "anti-afk": {
       "enabled": true,
@@ -55,7 +55,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1000
     }
   },
   "modules": {
