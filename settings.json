@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Sarkari_Rand",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "PATlDAR.aternos.host",
+    "ip": "PATlDAR.aternos.me",
     "port": 15728,
     "version": "1.21.11",
     "try-creative": false
