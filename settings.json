@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "PATlDAR.aternos.host",
+    "port": 15728,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Camera person Parth.... Ajao baby meri mar looooo",
+        "50 me ek ghanta. 50 me ek ghanta. 50 me ek ghanta... ajao ajao ajao.... raste ka mal saste me",
+        "ajao babyyyyy jaldi ajao meri marneeeee"
       ]
     },
     "chat-log": true,
